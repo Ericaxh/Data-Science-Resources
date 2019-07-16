@@ -126,6 +126,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
 
+- [Python Regular Expression Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
 
 ***
 
