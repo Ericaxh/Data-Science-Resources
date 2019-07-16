@@ -1193,10 +1193,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [The Top Mistakes Developers Make When Using Python for Big Data Analytics](https://www.airpair.com/python/posts/top-mistakes-python-big-data-analytics)
 
-
-<h3>Spark for big data</h3>
-
-***
+- [Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/community/tutorials/apache-spark-python)
 
 <h3>Guided example: Building a Random Forest Classifier with Spark in Batch Mode</h3>
 
