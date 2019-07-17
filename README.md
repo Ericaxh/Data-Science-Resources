@@ -700,6 +700,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h4> Past Thinkful Student Capstones</h4>
 
+- [Heart Disease Predicition](https://github.com/valfehr/Heart-Disease-Prediction) by Valentin Fehr
+
 - [Supervised learning capstone repo (Mike Ricos)](https://github.com/study-groups/ds-projects#supervised-learning-projects)
 
 ***
@@ -1224,9 +1226,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Past Student Capstones</h3>
 
-- [Machine Learning Interpretability for Vehicle Sign Detection](https://github.com/belalabu/thinkful/blob/master/CapFinal.ipynb)
+- [Machine Learning Interpretability for Vehicle Sign Detection](https://github.com/belalabu/thinkful/blob/master/CapFinal.ipynb) by Belal Abusaleh 
 
-- [Statistical analysis of Harvard and Duke forests environmental conditions](https://github.com/DMiller78/Final-Capstone-Harvard_Duke_forests)
+- [Statistical analysis of Harvard and Duke forests environmental conditions](https://github.com/DMiller78/Final-Capstone-Harvard_Duke_forests) by Dane Miller
 
 
 <h3>Capstone Ideas</h3>
