@@ -1222,6 +1222,13 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Datasets</h3>
 
+<h3>Past Student Capstones</h3>
+
+- [Machine Learning Interpretability for Vehicle Sign Detection](https://github.com/belalabu/thinkful/blob/master/CapFinal.ipynb)
+
+- [Statistical analysis of Harvard and Duke forests environmental conditions](https://github.com/DMiller78/Final-Capstone-Harvard_Duke_forests)
+
+
 <h3>Capstone Ideas</h3>
 
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
