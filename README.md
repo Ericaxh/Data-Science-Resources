@@ -1224,12 +1224,77 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Datasets</h3>
 
+- [U.S. Government’s Open Data](https://www.data.gov/)
+
+- [Indian Government’s open data](https://data.gov.in/)
+
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+- [Deep Learning Datasets](http://deeplearning.net/datasets/)
+
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+- [Skymind Open Datasets](https://skymind.ai/wiki/open-datasets)
+
+- [Visual Genome Image Dataset](https://visualgenome.org/)
+
+- [Reddit Dataset](https://www.reddit.com/r/datasets/)
+
+- [Natural Language Processing Datasets](https://github.com/niderhoff/nlp-datasets)
+
+- [Non-English, Parallel & Multilingual Corpora](http://martinweisser.org/corpora_site/corpora2.html)
+
+- [Open Speech and Language](https://www.openslr.org/resources.php)
+
+- [Spoken Corpora](http://martinweisser.org/corpora_site/spoken_corpora.html)
+
+- [Open Datasets created on the Figure Eight platform](https://www.figure-eight.com/data-for-everyone/)
+
+- [BioGPS Dataset Library](http://biogps.org/dataset/)
+
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+
+- [Discover Mendeley Data](https://data.mendeley.com/)
+
+- [Deep Learning Physics Dataset](http://deeplearnphysics.org/DataChallenge/)
+
+- [Medical Datasets](https://grand-challenge.org/challenges/)
+
+- [Berkeley Deep Dive Self Driving Car Dataset](https://bdd-data.berkeley.edu/)
+
+- [Waymo Self Driving Car Dataset](https://waymo.com/open)
+
+- [Yahoo Datasets](https://webscope.sandbox.yahoo.com/?guccounter=1)
+
+- [Face Recognition Dataset](http://www.face-rec.org/databases/)
+
+- [60 Facial Recognition Databases](https://www.kairos.com/blog/60-facial-recognition-databases)
+
+- [UCI Machine Learning Datasets](http://archive.ics.uci.edu/ml/index.php)
+
+- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection Dataset](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+
+- [19 Places to Find Free Data Sets for Data Science Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
+
+- [50 Interesting Data Sets to Find Data You Need](https://piktochart.com/blog/100-data-sets/)
+
+- [25 Excellent Machine Learning Open Datasets](https://opendatascience.com/25-excellent-machine-learning-open-datasets/)
+
+- [Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
+
+
+
+***
+
+
 <h3>Past Student Capstones</h3>
 
 - [Machine Learning Interpretability for Vehicle Sign Detection](https://github.com/belalabu/thinkful/blob/master/CapFinal.ipynb) by Belal Abusaleh 
 
 - [Statistical analysis of Harvard and Duke forests environmental conditions](https://github.com/DMiller78/Final-Capstone-Harvard_Duke_forests) by Dane Miller
 
+
+***
 
 <h3>Capstone Ideas</h3>
 
