@@ -1298,6 +1298,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 <h3>Capstone Ideas</h3>
 
+- [Research Papers With Code](https://paperswithcode.com/)
+
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 
 - [Traditional Face Detection With Python](https://realpython.com/traditional-face-detection-python/)
