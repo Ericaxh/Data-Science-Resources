@@ -1270,6 +1270,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [60 Facial Recognition Databases](https://www.kairos.com/blog/60-facial-recognition-databases)
 
+- [Imaging and Vision Dataset](http://www.ivl.disco.unimib.it/)
+
 - [UCI Machine Learning Datasets](http://archive.ics.uci.edu/ml/index.php)
 
 - [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection Dataset](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
