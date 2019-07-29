@@ -1284,6 +1284,8 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 
+- [Open data resources from governments, non-profits, and NGOs around the world](https://dev.socrata.com/)
+
 
 
 ***
