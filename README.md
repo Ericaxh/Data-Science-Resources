@@ -398,6 +398,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [How to Stand Out in a Python Coding Interview](https://realpython.com/python-coding-interview-tips/)
 
+- [100 Essential Python Interview Questions (Edition 2019)](https://www.techbeamers.com/python-interview-questions-programmers/)
 
 
 ***
