@@ -1289,6 +1289,7 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Open data resources from governments, non-profits, and NGOs around the world](https://dev.socrata.com/)
 
+- [World Bank Open Data](https://data.worldbank.org/)
 
 
 ***
