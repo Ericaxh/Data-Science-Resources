@@ -1075,12 +1075,19 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [Understanding what is behind Sentiment Analysis](https://building.lang.ai/understanding-what-is-behind-sentiment-analysis-part-i-eaf1bcb43d2d)
 
+- [GETTING STARTED WITH TEXT PREPROCESSING FOR MACHINE LEARNING & NLP](https://www.topbots.com/text-preprocessing-for-machine-learning-nlp/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190909+ai+nl&mkt_tok=eyJpIjoiTXpGbU4yRTRNemhsT1RkaCIsInQiOiJ0d0R3WVgxb21QWjZDUTJDVGhpUFE5VjZNRFhlS0w1XC9GRDJyMzZ5c2dcL21TYkJjUWJkSnFYVlIrQTZIcG5PRTdBMXgyODBrZWFWTlZXaUkyQWZlR2l5Q1lzZk9LdGxzMCtwdktoMDl4UXZBOFEzXC9rR2VJcUhkdEVYWllqQkdjdSJ9)
+
+
+
 
 <h3>Basics of language parsing</h3>
 
 ***
 
 <h3>As supervised problem</h3>
+
+- [BUILDING NLP CLASSIFIERS CHEAPLY WITH TRANSFER LEARNING AND WEAK SUPERVISION](https://www.topbots.com/nlp-classifiers-with-transfer-learning/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190909+ai+nl&mkt_tok=eyJpIjoiTXpGbU4yRTRNemhsT1RkaCIsInQiOiJ0d0R3WVgxb21QWjZDUTJDVGhpUFE5VjZNRFhlS0w1XC9GRDJyMzZ5c2dcL21TYkJjUWJkSnFYVlIrQTZIcG5PRTdBMXgyODBrZWFWTlZXaUkyQWZlR2l5Q1lzZk9LdGxzMCtwdktoMDl4UXZBOFEzXC9rR2VJcUhkdEVYWllqQkdjdSJ9)
+
 
 ***
 
