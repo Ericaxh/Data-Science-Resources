@@ -1303,6 +1303,9 @@ If you are a student and if you would like to get your projects added or if you 
 
 - [NASA's Data Portal](https://data.nasa.gov/)
 
+- [OSF is a free, open platform to support your research and enable collaboration with Datasets](https://osf.io/)
+
+- [The Big Cities Health Coalition Data](https://www.bigcitieshealth.org/)
 
 ***
 
