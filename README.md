@@ -551,6 +551,7 @@ If you have any questions, want to just add your projects without pull requests,
 <h2 align="center">:baby_chick: Unsupervised Learning</h2>
 <p align="right"><a href="#Data-Science-Resources"><sup>▴ Back to top</sup></a></p>
 
+- [Introduction to Unsupervised Learning](https://blog.algorithmia.com/introduction-to-unsupervised-learning)
 
 <h3>Evaluating clusters</h3>
 
